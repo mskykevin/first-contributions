@@ -3543,6 +3543,7 @@ andrewcodess
 - [James M](https://github.com/jdm3981)
 - [Shaunish Sharma](https://github.com/Shaunish123)
 - [Janobourian](https://github.com/janobourian)
+- [Kevin S](https://github.com/mskykevin) - my first contribution, starting my AI learning journey!
 - [Aryan Navin](https://github.com/aryann4)
 - [Adnaan Osman](https://github.com/Adnaan-Osman)
 - [JanosNagy](https://github.com/JaniITmer)
